@@ -494,17 +494,4 @@ uvicorn src.main:app --reload --log-level debug
 - Write tests for new features
 - Update documentation as needed
 
-## License
-
-This project is licensed under the MIT License. See LICENSE file for details.
-
-## Support
-
-For technical support or questions:
-- Create an issue in the repository
-- Check the troubleshooting section
-- Review API documentation at `/docs`
-
----
-
 **Built with**: FastAPI, PostgreSQL, Google Gemini AI, SQLAlchemy, Pydantic, Alembic
