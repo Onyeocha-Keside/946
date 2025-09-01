@@ -50,7 +50,7 @@ This system combines Excel data ingestion, PostgreSQL storage, and multi-step AI
 ### Prerequisites
 - Python 3.12+
 - PostgreSQL 13+
-- Google AI API Key ([Get one here](https://makersuite.google.com/app/apikey))
+- Google AI API Key ([Get one here](https://aistudio.google.com/app/apikey))
 
 ### Installation
 
