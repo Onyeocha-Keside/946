@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+.venv/
+
+# Ignore environment variable files
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE and OS-specific files
+.idea/
+.vscode/
+.DS_Store
